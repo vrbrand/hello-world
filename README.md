@@ -1,2 +1,3 @@
 # hello-world
-A repository based on the tutorial.
+
+I'm testing out this tutorial in Github to figure out how to use it.
